@@ -22,7 +22,7 @@ npm run check       # Build + browser checks
 
 Serve `dist/` with any static web host. `dist-library/glass-lens.js` is the independent renderer bundle. The TypeScript source is in `src/lens/`; copy that folder into another TypeScript project for typed integration. No API keys, CDN assets, or external services are needed.
 
-## Try it
+## Try it (https://segun-glass-lens.netlify.app/)
 
 Enter a name in **Your text**. The text and its refracted texture update live. Spaces and accented characters are supported; the complete string is automatically fitted and centred on desktop and mobile. Empty or whitespace-only input leaves a blank scene.
 
